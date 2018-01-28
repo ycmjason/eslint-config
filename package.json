@@ -10,5 +10,13 @@
   },
   "author": "Jason Yu <me@ycmjason.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycmjason/eslint-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ycmjason/eslint-config/issues"
+  },
+  "homepage": "https://github.com/ycmjason/eslint-config#readme",
   "description": ""
 }
