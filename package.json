@@ -1,0 +1,14 @@
+{
+  "name": "@ycm.jason/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "author": "Jason Yu <me@ycmjason.com>",
+  "license": "ISC",
+  "description": ""
+}
