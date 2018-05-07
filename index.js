@@ -54,6 +54,8 @@ module.exports = {
         "exports": "ignore",
         "functions": "ignore"
       }
-    ]
+    ],
+    "no-unused-vars": "warn",
+    "no-var": "error",
   }
 };
