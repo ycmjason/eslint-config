@@ -52,7 +52,7 @@ module.exports = {
         "objects": "always-multiline",
         "imports": "ignore",
         "exports": "ignore",
-        "functions": "never"
+        "functions": "ignore"
       }
     ]
   }
