@@ -53,7 +53,7 @@ module.exports = {
         "functions": "ignore"
       }
     ],
-    "no-unused-vars": "warn",
+    "no-unused-vars": ["error", { "args": "none" }],
     "no-var": "error",
   }
 };
